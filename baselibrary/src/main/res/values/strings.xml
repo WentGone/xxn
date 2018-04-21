@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">baselibrary</string>
+    <!--<item name="type_header" typeInt="integer">12797222</item>-->
+    <!--<item name="type_footer" typeInt="integer">12797221</item>-->
+    <!--<item name="type_child" typeInt="integer">12797223</item>-->
+    <!--<integer name="type_header"/>
+    <integer name="type_footer"/>
+    <integer name="type_child"/>-->
+</resources>

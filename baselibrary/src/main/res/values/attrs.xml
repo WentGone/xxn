@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExpandView">
+        <!--是否展开-->
+        <attr name="isExpand" format="boolean"></attr>
+    </declare-styleable>
+    <declare-styleable name="MaterialLayout">
+        <attr name="alpha_start" format="integer" />
+        <attr name="alpha_step" format="integer" />
+        <attr name="framerate" format="integer" />
+        <attr name="duration" format="integer" />
+        <attr name="color" format="color" />
+        <attr name="scale" format="float" />
+    </declare-styleable>
+</resources>
